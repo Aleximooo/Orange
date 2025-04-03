@@ -60,7 +60,7 @@
         font-weight: 400;
     }
 
-    p, blockquote, i	{
+    p, blockquote, i, a	{
         text-align:left;
         text-indent: 10%;
         color:azure;
