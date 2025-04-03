@@ -4,13 +4,14 @@
     display: inline-block;
     padding: 1.5vh 2vw;
     background-color: #f9a01b;
-    color: black;
+    color: azure;
     border-radius: 2vw;
     text-decoration: none;
     }
   
     .btn:hover {
     background-color: azure;
+    color: black;
     }
 
     .highlight:hover {
@@ -60,10 +61,11 @@
         font-weight: 400;
     }
 
-    p, blockquote, i, a, .btn	{
+    p, blockquote, i, a {
         text-align:left;
         text-indent: 10%;
         color:azure;
+        text-decoration: none;
         font-family: Roboto;
         font-weight: 400;
     }
