@@ -3,17 +3,14 @@
     .btn {
     display: inline-block;
     padding: 1.5vh 2vw;
-    background-color: pink;
+    background-color: #f9a01b;
     color: black;
-    font-family:monospace;
-    font-weight: 200;
-    text-align: center;
     border-radius: 2vw;
     text-decoration: none;
     }
   
     .btn:hover {
-    background-color: orange;
+    background-color: azure;
     }
 
     .highlight:hover {
